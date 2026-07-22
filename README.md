@@ -23,7 +23,9 @@
 ## 기타 보너스
 
 * 강원아이로: https://airo.gwedu.kr/
-* 2026학년도 학습지원 소프트웨어 선정 및 심의 가이드: https://gw1.kr/강원현직중2026
+* 강원교육과학정보원 홈페이지: https://www.gwedu.go.kr/portal/user/main/user_main
+* 강원교육과학정보원 유튜브: https://www.youtube.com/@gwedu/videos
+* 2026학년도 학습지원 소프트웨어 선정 및 심의 가이드: https://www.youtube.com/watch?v=WCZeRrQSyHY&t=300s
 * 인터넷 URL 단축: https://gw1.kr
 * 온책방: https://onbook.dkyobobook.co.kr/main.ink
 * 스쿨보드: https://schoolboard.cc/
