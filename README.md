@@ -22,6 +22,7 @@
 
 ## 기타 보너스
 
+* 강원아이로: https://airo.gwedu.kr/
 * 2026학년도 학습지원 소프트웨어 선정 및 심의 가이드: https://gw1.kr/강원현직중2026
 * 인터넷 URL 단축: https://gw1.kr
 * 온책방: https://onbook.dkyobobook.co.kr/main.ink
