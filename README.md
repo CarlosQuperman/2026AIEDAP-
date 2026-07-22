@@ -5,6 +5,8 @@
 
 ## 데이터 탐색처
 
+* 이론 연수 이후 공유: https://ask.affinitybubble.com/join/db6cfa89-abab-45ff-a04d-186855b57b1b
+
 * 공공데이터 포털: https://www.data.go.kr/
 * 나이스 교육정보개방포털: https://open.neis.go.kr/portal/mainPage.do
 * 데이콘: https://dacon.io/
