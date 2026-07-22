@@ -5,6 +5,7 @@
 ## 참고영상
 
 * 데이터 이타주의(04:30분부터) https://home.ebs.co.kr/greatminds/vodReplay/vodReplayView?courseId=40023168&stepId=60057781&lectId=60357757
+* 위대한 독재자 연설: https://www.youtube.com/watch?v=qGonyf7865E
 
 ## 데이터 탐색처
 
