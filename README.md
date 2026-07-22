@@ -21,6 +21,7 @@
 
 ## 기타 보너스
 
+* 인터넷 URL 단축: https://gw1.kr
 * 온책방: https://onbook.dkyobobook.co.kr/main.ink
 * 스쿨보드: https://schoolboard.cc/
 * 폴라리스오피스 도구: https://www.polarisofficetools.com/
