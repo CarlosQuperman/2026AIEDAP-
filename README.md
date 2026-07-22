@@ -2,6 +2,9 @@
 2026-07-23(수) 진행할 2026AIEDAP강원 연수 관련 자료입니다.
 페이지링크: https://gw1.kr/강원현직중2026
 
+## 참고영상
+
+* 데이터 이타주의(04:30분부터) https://home.ebs.co.kr/greatminds/vodReplay/vodReplayView?courseId=40023168&stepId=60057781&lectId=60357757
 
 ## 데이터 탐색처
 
